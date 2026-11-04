@@ -1,2 +1,2 @@
-test
+Conflicting edit side A test
 more test
